@@ -75,8 +75,8 @@ export const SITE_CONFIG = {
   },
 
   description: "Join Reddy Anna – India’s leading cricket betting ID platform. Enjoy instant access, safe payments, special bonuses & 24*7 support.",
-  whatsappNumber: "918437261975",
-  whatsappLink: "https://wa.me/918437261975",
+  whatsappNumber: "916026703858",
+  whatsappLink: "https://wa.me/916026703858",
   url: "https://reddyannabookss.ind.in/",
 
   // ==========================================
