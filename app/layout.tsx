@@ -9,6 +9,9 @@ const playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-playfa
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_CONFIG.url),
   alternates: { canonical: '/' },
+  verification: {
+    google: "ypUW2HhMOswXdDmtbnxDSZa9g_tq6_ESA7_4IOefpzM",
+  },
   title: `${SITE_CONFIG.brand.name} â€“ Official ID | Get ${SITE_CONFIG.brand.name} Book ID Online`,
   description: SITE_CONFIG.description,
   keywords: ["Reddy Anna", "Reddy Book", "Anna Book", "Cricket Betting ID", "IPL Betting ID", "Online Betting India"],
