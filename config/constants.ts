@@ -126,6 +126,7 @@ export const SITE_CONFIG = {
   // - "banner3"       (Third wide image banner - Join Now)
   // - "faq"           (Accordions containing questions and answers)
   // - "testimonials"  (User testimonials/reviews cards)
+  // - "blogs"         (Blogs grid and preview cards)
   // - "responsible"   (Responsible gaming warning footer section)
 
   layout: {
@@ -178,6 +179,7 @@ export const SITE_CONFIG = {
       "sports",
       "faq",
       "testimonials",
+      "blogs",
       "responsible"
     ]
   }

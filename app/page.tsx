@@ -10,6 +10,7 @@ import Bonuses from "@/components/Bonuses";
 import ComparisonTable from "@/components/ComparisonTable";
 import FAQSection from "@/components/FAQSection";
 import Testimonials from "@/components/Testimonials";
+import BlogsSection from "@/components/BlogsSection";
 import ResponsibleGaming from "@/components/ResponsibleGaming";
 import Footer from "@/components/Footer";
 import { SITE_CONFIG } from "@/config/constants";
@@ -25,6 +26,7 @@ const SECTION_COMPONENTS: Record<string, React.ComponentType> = {
   comparison: ComparisonTable,
   faq: FAQSection,
   testimonials: Testimonials,
+  blogs: BlogsSection,
   responsible: ResponsibleGaming,
 };
 
